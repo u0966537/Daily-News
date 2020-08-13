@@ -1,0 +1,3 @@
+## 1. Introduction
+### 1.1 Application Background
+With the popularity of smartphones, people are more accustomed to watch news/videos on their phones. The Daily News project is developed for this context. It will be using our current big data technology architecture, and mainly obtain the latest and hottest news and information, and accurately push consulting news through big data analysis of user preferences. 
